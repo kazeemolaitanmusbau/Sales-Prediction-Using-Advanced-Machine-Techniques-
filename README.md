@@ -5,7 +5,7 @@
 
 Certainly! Here's a revised version of the section headings:
 
-### [**Data Collection and Preprocessing**](#title-one)
+### [**Data Collection and Preprocessing**](http://localhost:8888/notebooks/Desktop/1/my%20project/Sales-Prediction-Using-Advanced-Machine-Techniques-/Data%20Exploration.ipynb#title-one)
 
 - Importing Essential Libraries and Modules
 - Data Cleaning Process
