@@ -5,14 +5,13 @@
 
 Certainly! Here's a revised version of the section headings:
 
-### [**Data Collection and Preprocessing**](http://localhost:8888/notebooks/Desktop/1/my%20project/Sales-Prediction-Using-Advanced-Machine-Techniques-/Data%20Exploration.ipynb#title-one)
-
+### **Data Collection and Preprocessing**
 - Importing Essential Libraries and Modules
 - Data Cleaning Process
 - Handling Missing Data
 - Merging Datasets
 
-### [**Exploratory Data Analysis**](#title-two)
+### **Exploratory Data Analysis**
 
 - Formulating Hypotheses
 - Analysis of Categorical Features
