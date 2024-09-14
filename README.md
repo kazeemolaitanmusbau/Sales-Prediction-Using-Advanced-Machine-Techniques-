@@ -1,53 +1,7 @@
 # Sales Prediction Using Advanced Machine Techniques 
 
 
-## Table of Contents
 
-Certainly! Here's a revised version of the section headings:
-
-### **Data Collection and Preprocessing**
-- Importing Essential Libraries and Modules
-- Data Cleaning Process
-- Handling Missing Data
-- Merging Datasets
-
-### **Exploratory Data Analysis**
-
-- Formulating Hypotheses
-- Analysis of Categorical Features
-- Examination of Continuous Features
-- Conclusions from EDA and Hypothesis Validation
-
-### [**Feature Selection and Outlier Detection**](#title-three)
-
-- Engineering New Features
-- Identifying and Addressing Outliers
-
-### [**Modeling**](#title-four)
-
-- Splitting Data into Training and Testing Sets
-- Implementing a Baseline Model with Decision Tree
-- Developing a Random Forest Model
-- Optimizing Random Forest Model Parameters
-- Assessing Feature Importance in Random Forest
-
-### [**Model Performance and Evaluation**](#title-five)
-
-- Visual Representation of Model Performance
-- Comparative Analysis: Random Forest vs. Baseline Model
-- Comparison of Tuned Random Forest with Baseline and Initial Models
-
-### [**Store-specific Sales Predictions**](#title-six)
-
-- Detailed Predictions for Individual Stores
-
-### [**Conclusion**](#title-seven)
-
-- Summary of Findings
-
-### [**Recommendations**](#title-eight)
-
-- Insights and Suggestions Based on Analysis
 
 ## Introduction
 
